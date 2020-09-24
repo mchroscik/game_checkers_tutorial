@@ -8,7 +8,7 @@ FPS = 60
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption('Checkers')
 
-
+#check comment
 def main():
   run = True
   clock = pygame.time.Clock()
